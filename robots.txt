@@ -1,3 +1,2 @@
 User-agent: *
-Allow: /
-Sitemap: https://clawbox.cv/sitemap.xml
+Disallow: /
